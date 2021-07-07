@@ -1,16 +1,16 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Techtube](https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg)](https://t.me/Saqibpiash)
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
+Owner of this repository:- [Lost Project](https://github.com/lstprjct)
 
-contact me :- [AYUSH](https://t.me/request_ayush)
+contact me :- [Lost Project](https://t.me/Saqibpiash)
 
-# Slam Mirror Bot
-This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
+# Techtube Mirror Bot
+This is a telegram bot written in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
 
-to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
+to know how to get them click on the [ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
@@ -62,8 +62,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
-cd slam_aria_mirror_bot_HEROKU
+git clone https://github.com/lstprjct/aria2-mirror-bot
+cd aria2-mirror-bot
 ```
 
 - Install requirements
@@ -151,7 +151,7 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 - Go to the Credentials tab and click Create Credentials -> OAuth Client ID
 - Choose Desktop and Create.
 - Use the download button to download your credentials.
-- clone this repo https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU
+- clone this repo https://github.com/lstprjct/aria2-mirror-bot
 - Move that file to the root of mirrorbot, and rename it to credentials.json
 - install the requirements-cli.txt file by using
 
@@ -238,5 +238,5 @@ Thanks to:
 - [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
 - [ydner](https://github.com/ydner/) for Usage module
 - [breakdowns](https://github.com/breakdowns) for main repo
-- [ayush](https://github.com/ayushteke) for nothing
+- [lstprjct](https://github.com/lstprjct) for nothing
 
