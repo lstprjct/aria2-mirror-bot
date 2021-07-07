@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/lstprjct/aria2-mirror-bot",
     "website": "https://github.com/lstprjct/aria2-mirror-bot",
-    "success_url": "https://t.me/TORRNET_TO_GDRIVE",
+    "success_url": "https://t.me/TechTubeInsider",
     "stack": "container",
     "env": {
       "ENV": {
