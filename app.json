@@ -1,14 +1,14 @@
 {
-    "name": "slam-mirrorbot",
-    "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+    "name": "techtube-mirrorbot",
+    "description": "An All in One Telegram bot for all your needs",
+    "logo": "https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-    "website": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
+    "repository": "https://github.com/lstprjct/aria2-mirror-bot",
+    "website": "https://github.com/lstprjct/aria2-mirror-bot",
     "success_url": "https://t.me/TORRNET_TO_GDRIVE",
     "stack": "container",
     "env": {
@@ -76,8 +76,8 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
-        "value": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
+        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/lstprjct/aria2-mirror-bot",
+        "value": "https://github.com/lstprjct/aria2-mirror-bot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -149,7 +149,7 @@
       },
       "IMAGE_URL": {
         "description": "Show Image/Logo in /start message, Use telegra.ph or any direct link image.",
-        "value": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
+        "value": "https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg",
         "required": false
        },
       "VIEW_LINK": {
