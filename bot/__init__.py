@@ -294,9 +294,9 @@ except KeyError:
 try:
     IMAGE_URL = getConfig('IMAGE_URL')
     if len(IMAGE_URL) == 0:
-        IMAGE_URL = 'https://telegra.ph/file/019996f816db9ed576cff.jpg'
+        IMAGE_URL = 'https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg'
 except KeyError:
-    IMAGE_URL = 'https://telegra.ph/file/019996f816db9ed576cff.jpg'
+    IMAGE_URL = 'https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg'
 
 IGNORE_PENDING_REQUESTS = False
 try:
