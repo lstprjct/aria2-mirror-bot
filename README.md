@@ -1,10 +1,10 @@
-[![Techtube](https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg)](https://t.me/Saqibpiash)
+[![TechTube](https://telegra.ph/file/9b6653d00c49b1e51abfc.jpg)](https://t.me/Saqibpiash)
 
 Owner of this repository:- [Lost Project](https://github.com/lstprjct)
 
 contact me :- [Lost Project](https://t.me/Saqibpiash)
 
-# Techtube Mirror Bot
+# TechTube Mirror Bot
 This is a telegram bot written in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
