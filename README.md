@@ -7,6 +7,10 @@ contact me :- [Lost Project](https://t.me/Saqibpiash)
 # TechTube Mirror Bot
 This is a telegram bot written in python for mirroring files on the internet to our beloved Google Drive.
 
+## Deploying on Okteto
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/#/deploy?repository=https://github.com/lstprjct/aria2-mirror-bot)
+
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
 
